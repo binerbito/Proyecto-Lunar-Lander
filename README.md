@@ -3,3 +3,6 @@ En el proyecto inicial nos indican una serie de imagenes las cuales nos han serv
 En referencia a los menus se han mantenido el mismo principio de verticalidad en version movil y desktop. En el lateral de opticones hemos cambiado por unos mas logicos y en con la posibilidad de poner iconos en vez de texto. 
 
 Se ha creado un branch para cambiar los textos a iconos  pero me esta fallando la situacion de estos.
+
+En este branch si ha  implementado el modulo de instrucciones el cual si funciona.
+
